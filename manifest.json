@@ -1,5 +1,5 @@
 {
-  "vendor": "vtex",
+  "vendor": "guzzatti",
   "name": "store-theme",
   "version": "5.2.0",
   "builders": {
@@ -62,7 +62,8 @@
     "vtex.product-specifications": "1.x",
     "vtex.tab-layout": "0.x",
     "vtex.condition-layout": "2.x",
-    "vtex.css-handles": "1.x"
+    "vtex.css-handles": "1.x",
+    "guzzatti.appexamplenovo": "0.x"
   },
   "peerDependencies": {
     "vtex.reviews-and-ratings": "3.x"
